@@ -1,0 +1,24 @@
+{
+  "fecha": "2026-10-03",
+  "host": "Windows",
+  "dispositivo": "Xiaomi Redmi 9 (M2004J19C)",
+  "android": "11",
+  "api": "30",
+  "resolucion": "Physical size: 1080x2340",
+  "actividad": [
+    "mResumedActivity: ActivityRecord{69ff386 u0 com.example.woof/.MainActivity t74}"
+  ],
+  "temaOriginal": "Night mode: yes",
+  "temaRestaurado": "Night mode: yes",
+  "pruebas": {
+    "instalacion": "Success",
+    "inicio": "Status: ok",
+    "claro": "Captura real 02-tema-claro.png",
+    "oscuro": "Captura real 01-tema-oscuro.png",
+    "desplazamiento": "Gesto manual del usuario; captura con Leroy al final",
+    "dinamico": "No verificado: requiere API 31+, dispositivo API 30"
+  },
+  "capturasCommitLocal": "394c3bb",
+  "codigoFinalCommitLocal": "77ded8e",
+  "nota": "Después de las capturas se completaron traducciones no visibles y el plural many para resolver Lint; no cambió el diseño."
+}
