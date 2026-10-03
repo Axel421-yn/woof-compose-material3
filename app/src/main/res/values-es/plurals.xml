@@ -2,6 +2,7 @@
 <resources>
     <plurals name="dog_age">
         <item quantity="one">%d año</item>
+        <item quantity="many">%d años</item>
         <item quantity="other">%d años</item>
     </plurals>
 </resources>
